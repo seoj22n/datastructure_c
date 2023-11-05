@@ -1,2 +1,2 @@
 # datastructure_c
-🌱 Archiving assignments for data structure lecture
+🌱 Archiving codes for C data structure. 
